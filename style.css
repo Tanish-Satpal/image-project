@@ -1,0 +1,18 @@
+html,
+body{
+    background-image: radial-gradient(50% 30% ellipse at center top, #574fc7 0%, rgba(207, 30, 30, 0) 100%),
+  radial-gradient(60% 50% ellipse at center bottom, #d60cd6 0%, #a181e0 100%);
+background-attachment: fixed;;
+color: rgb(19, 87, 126);
+}
+h3{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Supermercado One', cursive;
+
+}
+button{
+    background-image: radial-gradient(50% 30% ellipse at center top, #29256b 0%, rgba(121, 54, 54, 0) 100%),
+    radial-gradient(60% 50% ellipse at center bottom, #6b4c6b 0%, #b89bf1 100%);
+    color: rgb(255, 245, 245);
+}
